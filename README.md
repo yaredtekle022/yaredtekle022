@@ -30,7 +30,6 @@
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://twitter.com/YaredTekle22" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/yared-tekle-5708ba22b" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 
 
